@@ -1,0 +1,1 @@
+await import.meta.resolve!('./foo.js', import.meta.url)
